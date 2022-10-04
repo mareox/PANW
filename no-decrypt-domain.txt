@@ -1,2 +1,3 @@
 *.updater.thinkorswim.com
 *.thinkorswim.com
+google.com
