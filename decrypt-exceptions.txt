@@ -1,1 +1,2 @@
-savvytrader.com
+netflix.com
+*.netflix.com
