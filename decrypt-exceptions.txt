@@ -1,2 +1,4 @@
 netflix.com
 *.netflix.com
+google.com
+*.google.com
