@@ -4,3 +4,5 @@ google.com
 *.google.com
 github.com
 *.github.com
+yahoo.com
+*.yahoo.com
